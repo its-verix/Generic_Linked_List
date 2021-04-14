@@ -1,4 +1,4 @@
-# Generic_Linked_List
+# Generic Linked List
 My first repository
 
 Repository incude 2 files:
